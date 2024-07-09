@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact</title>
+  <link rel="stylesheet" href="static/css/style.css"> 
+  <script src="static/js/globalHeaderFooter.js"></script> 
+</head>
+<body>
+<hr>
+
+  <main>
+    <!-- Contact form section -->
+    <div class="card" id="contact">
+      <div class="content">
+        <h2>Contact Us</h2>
+        <p>
+          If you have any inquiries or would like to know more about Broadway Stores, Inc., feel free to reach out to us:
+        </p>
+        <!-- Contact form -->
+        <form action="#" method="POST" class="contact-form">
+          <!-- Name input -->
+          <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+          </div>
+          <!-- Email input -->
+          <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          <!-- Message input -->
+          <div class="form-group">
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+          </div>
+          <!-- Submit button -->
+          <button type="submit">Submit</button>
+        </form>
+      </div>
+    </div>
+  </main>
+
+  <script src="script.js"></script> 
+</body>
+</html>
