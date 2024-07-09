@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kAUgv3ssQ5pUrijAdTodo48vvH19tkAhLLJ3V0kb5a0wafY86TrVYavM7MZqJ4E7Cy4UaAORvomrtETk3UFerg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\escape the dungeon\\escape the dungeon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

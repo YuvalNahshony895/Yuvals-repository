@@ -1,0 +1,14 @@
+C:\Users\user\Documents\escape the dungeon\obj\Debug\net7.0\escape the dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\escape the dungeon\obj\Debug\net7.0\escape the dungeon.AssemblyInfoInputs.cache
+C:\Users\user\Documents\escape the dungeon\obj\Debug\net7.0\escape the dungeon.AssemblyInfo.cs
+C:\Users\user\Documents\escape the dungeon\obj\Debug\net7.0\escape the dungeon.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\escape the dungeon\bin\Debug\net7.0\escape the dungeon.exe
+C:\Users\user\Documents\escape the dungeon\bin\Debug\net7.0\escape the dungeon.deps.json
+C:\Users\user\Documents\escape the dungeon\bin\Debug\net7.0\escape the dungeon.runtimeconfig.json
+C:\Users\user\Documents\escape the dungeon\bin\Debug\net7.0\escape the dungeon.dll
+C:\Users\user\Documents\escape the dungeon\bin\Debug\net7.0\escape the dungeon.pdb
+C:\Users\user\Documents\escape the dungeon\obj\Debug\net7.0\escape the dungeon.dll
+C:\Users\user\Documents\escape the dungeon\obj\Debug\net7.0\refint\escape the dungeon.dll
+C:\Users\user\Documents\escape the dungeon\obj\Debug\net7.0\escape the dungeon.pdb
+C:\Users\user\Documents\escape the dungeon\obj\Debug\net7.0\escape the dungeon.genruntimeconfig.cache
+C:\Users\user\Documents\escape the dungeon\obj\Debug\net7.0\ref\escape the dungeon.dll

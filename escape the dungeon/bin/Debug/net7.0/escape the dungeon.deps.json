@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "escape the dungeon/1.0.0": {
+        "runtime": {
+          "escape the dungeon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "escape the dungeon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
